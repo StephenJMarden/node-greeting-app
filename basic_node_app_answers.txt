@@ -1,0 +1,5 @@
+#### Questions
+
+1. A node module is a chunk of code to be used in an application. It is functionally equivalent to a library.
+2. `module.exports` allows you to export your object as a certain type, whereas exports does not.
+3. `exports` is recommended because reassignments of exports are local and not available outside the module.
